@@ -1,0 +1,9 @@
+package com.spring.SpringBhimsenDemo2;
+
+public class Bike implements Vehicle {
+
+	public void drive() {
+		System.out.println("Bike is running");
+	}
+
+}
